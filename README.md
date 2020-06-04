@@ -1,7 +1,10 @@
 # learning-notes
 
 - Java
-- Python
-- Go
+
+  - [SpringBoot](Java/SpringBoot/SpringBoot.md)
 - C/C++
-- Vue
+  - [Basic](Cpp/CppBasic.md)
+- Databases
+  - [Redis](Redis/Redis.md)
+
